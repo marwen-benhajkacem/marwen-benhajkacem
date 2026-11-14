@@ -31,5 +31,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 📫 Contact
-- LinkedIn: <ton lien LinkedIn>
+- LinkedIn: <[ton lien LinkedIn](https://www.linkedin.com/in/marwen-benhajkacem)>
 - Email: marwen.benhajkacem@polytechnicien.tn
