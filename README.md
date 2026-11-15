@@ -116,7 +116,7 @@ Interactive report on orders and returns with DAX measures by region and product
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimarejebb&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwen-benhajkacemtheme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwen-benhajkacem&theme=radical&hide_border=true)
 
 </div>
 
@@ -161,6 +161,6 @@ Interactive report on orders and returns with DAX measures by region and product
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marwen-benhajkacem&color=blueviolet&style=for-the-badge)
 
-⭐️ From [NaimaRejeb](https://github.com/marwen-benhajkacem)
+⭐️ From [MarwenBenhajkacem](https://github.com/marwen-benhajkacem)
 
 </div>)
