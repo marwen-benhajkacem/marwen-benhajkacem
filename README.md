@@ -109,10 +109,14 @@ Interactive report on orders and returns with DAX measures by region and product
 
 ## 📊 GitHub activity
 
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwen-benhajkacem&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwen-benhajkacem&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimarejebb&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimarejebb&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwen-benhajkacemtheme=radical&hide_border=true)
 
 </div>
 
@@ -151,3 +155,12 @@ Interactive report on orders and returns with DAX measures by region and product
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwen.benhajkacem@polytechnicien.tn)
 
 </div>
+<div align="center">
+
+### 💡 "Data is the new oil, but insights are the gold." 
+
+![Profile Views](https://komarev.com/ghpvc/?username=marwen-benhajkacem&color=blueviolet&style=for-the-badge)
+
+⭐️ From [NaimaRejeb](https://github.com/marwen-benhajkacem)
+
+</div>)
