@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwen-benhajkacem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwen.benhajkacem@polytechnicien.tn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marwen-benhajkacem.vercel.app/)
 [![Location](https://img.shields.io/badge/Location-Monastir,_Tunisia-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Open_to-PFE_Internship_Jan–Jun_2027-brightgreen?style=for-the-badge)](#-open-to-opportunities)
 
